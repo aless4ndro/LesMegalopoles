@@ -1,0 +1,26 @@
+{
+  "newYork": {
+    "name": "New York",
+    "population": "8,336,817",
+    "area": 468.9,
+    "gdp": 1.6,
+    "density": 17827,
+    "attractions": "Statue de la Liberté, Central Park, Times Square"
+  },
+  "tokyo": {
+    "name": "Tokyo",
+    "population": "13,515,271",
+    "area": 2192.0,
+    "gdp": 1.5,
+    "density": 6158,
+    "attractions": "Tour de Tokyo, Temple Senso-ji, Jardins impériaux"
+  },
+  "shanghai": {
+    "name": "Shanghai",
+    "population": "26,317,104",
+    "area": 6340.5,
+    "gdp": 0.9,
+    "density": 4150,
+    "attractions": "Tour de la Perle de l'Orient, Le Bund, Jardin Yu"
+  }
+}
