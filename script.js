@@ -48,7 +48,7 @@ loadButtons.forEach(button => {
   button.addEventListener('click', () => {
     const cityId = button.getAttribute('data-city');
     const citySection = document.querySelector(`#${cityId}`);
-    const cityDataDiv = citySection.querySelector('#${cityId}-data');
+    const cityDataDiv = citySection.querySelector(`#${cityId}-data`);
 
     fetch('data.json')
       .then(response => response.json())
